@@ -13,7 +13,7 @@ def throw_rock(m, v0, theta):
 
    
     print("For a rock with %5.3f kg mass thrown with %5.3f m/s"\
-          "at an angle of %6.2f degrees:\n"\
+          " at an angle of %6.2f degrees:\n"\
               "Time of flight is %10.1e s\n"\
                   "The range in x-direction is %10.1e m\n"\
                       "Maximum height is %10.1e m\n"\
